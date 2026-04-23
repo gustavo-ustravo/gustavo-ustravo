@@ -76,12 +76,29 @@ Além disso, possuo conhecimentos em desenvolvimento web, criando interfaces mod
 
 ## 📂 Projetos em Destaque
 
-🚧 Em construção — em breve projetos reais baseados em:
+### 🛒 Sistema de Gestão de Vendas
 
-* 🔧 Automação de tarefas de Service Desk
-* 🌐 Aplicações web com React
-* 🗄️ Sistemas com banco de dados
-* ⚙️ Ferramentas para otimização de suporte
+Sistema completo desenvolvido com Spring Boot, com arquitetura MVC, autenticação e integração com banco de dados.
+
+🔗 Acesse o projeto:
+https://github.com/gustavo-ustravo/sistema-gestao-vendas
+
+---
+
+### 🐄 Sistema de Gestão Pecuária
+
+Aplicação desktop em Java com interface gráfica (Swing), utilizando padrão DAO e integração com banco de dados.
+
+🔗 Acesse o projeto:
+https://github.com/gustavo-ustravo/sistema-gestao-pecuaria
+
+---
+
+🚀 Em breve:
+
+* Automação de tarefas de Service Desk
+* Aplicações React com consumo de API
+* Ferramentas para otimização de suporte
 
 ---
 
